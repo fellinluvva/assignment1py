@@ -1,4 +1,6 @@
 print("Parameters of square")
 a = float(input("Enter length of side: "))
-S = 4 * a
+P = 4 * a
+S = a * a
+print("Perimeter of square:", P)
 print("The area of square:", S)
